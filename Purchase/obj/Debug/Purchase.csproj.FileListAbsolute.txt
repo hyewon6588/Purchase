@@ -1,0 +1,8 @@
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\Purchase\Purchase\bin\Debug\Purchase.exe.config
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\Purchase\Purchase\bin\Debug\Purchase.exe
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\Purchase\Purchase\bin\Debug\Purchase.pdb
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\Purchase\Purchase\obj\Debug\Purchase.csproj.AssemblyReference.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\Purchase\Purchase\obj\Debug\Purchase.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\Purchase\Purchase\obj\Debug\Purchase.csproj.CoreCompileInputs.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\Purchase\Purchase\obj\Debug\Purchase.exe
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\Purchase\Purchase\obj\Debug\Purchase.pdb
